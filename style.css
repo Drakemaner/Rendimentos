@@ -1,0 +1,78 @@
+#rendimentosipo {
+    background-color: gray;
+    color: white;
+    position: absolute;
+    height: 250px;
+    width: 300px;
+    top: 100px;
+    border: lightgreen;
+    border-radius: 15px;
+    font-size: 35px;
+    top: 300px;
+    left: 150px;
+}
+#rendimentoj {
+    background-color:gray;
+    color: white;
+    position: absolute;
+    height: 250px;
+    width: 300px;
+    top: 100px;
+    border: red;
+    border-radius: 15px;
+    font-size: 35px;
+    top: 300px;
+    right: 150px;
+}
+body {
+    background-image: url('duododinheiro.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+#titulo {
+    color: white;
+    position: relative;
+    left: 5px;
+    top: -7px;
+    font-size: 40px;
+}
+.meses {
+    text-decoration: none;
+    position: relative;
+    left: 93px;
+    font-size: 20px;
+    bottom: 62px;
+}
+#titulodias {
+    color: white;
+    font-size: 40px;
+    position: relative;
+    left: 5px;
+    top: -7px;
+}
+#r22 {
+    text-decoration: none;
+    color:lightgreen;
+    font-size: 20px;
+}
+ .tr {
+    color: lightgreen;
+    font-size: 25px;
+    position: relative;
+    left: 15px;
+    top: 5px;
+}
+#red {
+    color: lightcoral;
+}
+#nulo {
+    color:white;
+}
+#meses {
+    color: white;
+}
